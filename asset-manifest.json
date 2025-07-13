@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19fc4658.css",
+    "main.js": "/static/js/main.0b2c8d90.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/react-icon.png": "/static/media/react-icon.da363b94e54e6deee792.png",
+    "static/media/datasets.jpg": "/static/media/datasets.22ff12b50805e562f25d.jpg",
+    "static/media/main.png": "/static/media/main.559c088c8674ea1202e4.png",
+    "static/media/dashboard.png": "/static/media/dashboard.9c0c0f36daca425b30af.png",
+    "static/media/presentation.jpg": "/static/media/presentation.f283d2b42bf43cc9eb63.jpg",
+    "static/media/energy by state.png": "/static/media/energy by state.8a7cc44e1f2420ba5f75.png",
+    "static/media/upload.png": "/static/media/upload.adfc1c1f8ebced037a79.png",
+    "static/media/logo.png": "/static/media/logo.1f93fab58b4f9919a583.png",
+    "static/media/Energy Sources.png": "/static/media/Energy Sources.40ef0cf6f73de553c6ad.png",
+    "static/media/django-icon.png": "/static/media/django-icon.b886cf69dca85d18476a.png",
+    "static/media/stats.png": "/static/media/stats.cc788cdf52d37661ae3c.png",
+    "static/media/Renewal energy by hours.png": "/static/media/Renewal energy by hours.cb189ff296fe0867e084.png",
+    "static/media/mysql-icon.png": "/static/media/mysql-icon.9c11674629fe8aad3755.png",
+    "static/media/The Grammys website Dataset.png": "/static/media/The Grammys website Dataset.9f6fad2761e217bd1d15.png",
+    "static/media/jupyter-icon.png": "/static/media/jupyter-icon.720b80295ea57baa66a6.png",
+    "static/media/docker-icon.png": "/static/media/docker-icon.e2d01a4d26d2b2ceedc5.png",
+    "static/media/Renewable energy production.png": "/static/media/Renewable energy production.d111448f25468823f8f0.png",
+    "static/media/roboflow-icon.png": "/static/media/roboflow-icon.580d1d5a3b4f7a466039.png",
+    "static/media/age groups vs visits.png": "/static/media/age groups vs visits.13822bc288bc2d1ae84c.png",
+    "index.html": "/index.html",
+    "main.19fc4658.css.map": "/static/css/main.19fc4658.css.map",
+    "main.0b2c8d90.js.map": "/static/js/main.0b2c8d90.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fc4658.css",
+    "static/js/main.0b2c8d90.js"
+  ]
+}
