@@ -4,8 +4,6 @@ A sleek and professional personal portfolio website built with **React** and **T
 
 ## 🚀 Live Demo
 
-[🔗 View Portfolio](https://your-username.github.io/your-repo-name)  
-*(Replace with your actual GitHub Pages URL after deployment)*
 
 ---
 
